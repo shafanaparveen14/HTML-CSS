@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+main heading{
+    color:blueviolet;
+    font-size: 40px;
+    text-align:center;
+}
+
+.subtitle{
+    text-align: center;
+    color:lavender;
+    
+}
